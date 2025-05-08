@@ -35,9 +35,12 @@ The game features a rich variety of resources essential for survival.
 Some items — such as **water , fruits, vegetables, sticks, and stones** — can be found scattered randomly throughout the world.  
 Others must be actively **gathered or farmed** by the player, including **logs (from trees), rocks and ores (from mining), and animal-based materials like fur, skin, fat, and meat**.  
 These resources are vital for crafting tools, building shelter, and sustaining life in the wild.
-- (o poza in care  dau cu pickexul intr un rock si o poza in care care pe jos se afla un stick, stone, mushroom, apple si apare mesajul "Collect"
-  
-  <img src="Images/Mining.png" alt="" width="300" height="auto"/> <img src="Images/GatheringItems.png" alt="" width="300" height="auto"/>
+
+ <div style="display: flex; gap: 10px;">
+  <img src="Images/Mining.jpg" alt="Mining" width="300" height="auto"/>
+  <img src="Images/GatheringItems.png" alt="Gathering Items" width="300" height="auto"/>
+</div>
+
 
   ![](Images/GatheringItems.png)
 
