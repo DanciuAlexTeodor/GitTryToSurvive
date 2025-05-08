@@ -27,8 +27,8 @@ Others must be actively **gathered or farmed** by the player, including **logs (
 These resources are vital for crafting tools, building shelter, and sustaining life in the wild.
 
 <div style="display: flex; gap: 0px;">
-  <img src="https://raw.githubusercontent.com/DanciuAlexTeodor/GitTryToSurvive/main/Images/Mining.jpg" width="525" />
-  <img src="https://raw.githubusercontent.com/DanciuAlexTeodor/GitTryToSurvive/main/Images/GatheringItems.png" width="440" />
+  <img src="https://raw.githubusercontent.com/DanciuAlexTeodor/GitTryToSurvive/main/Images/Mining.jpg" width="900" />
+  <img src="https://raw.githubusercontent.com/DanciuAlexTeodor/GitTryToSurvive/main/Images/GatheringItems.png" width="900" />
 </div>
 
 ---
@@ -59,8 +59,8 @@ The game features a **deep crafting system** with over **40 unique items**, incl
 Alongside this, players can build and customize their own **defensive base**, offering protection against **wild animals** and **hostile creatures**.
 
 <div style="display: flex; gap: 0px;">
-  <img src="https://raw.githubusercontent.com/DanciuAlexTeodor/GitTryToSurvive/main/Images/Construction.png" width="500" />
-  <img src="https://raw.githubusercontent.com/DanciuAlexTeodor/GitTryToSurvive/main/Images/CraftingSystem.png" width="480" />
+  <img src="https://raw.githubusercontent.com/DanciuAlexTeodor/GitTryToSurvive/main/Images/Construction.png" width="900" />
+  <img src="https://raw.githubusercontent.com/DanciuAlexTeodor/GitTryToSurvive/main/Images/CraftingSystem.png" width="900" />
 </div>
 
 ---
